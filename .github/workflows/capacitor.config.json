@@ -1,0 +1,9 @@
+{
+  "appId": "com.nexpulse.pppoebilling",
+  "appName": "PPPoE Billing",
+  "webDir": "www",
+  "server": {
+    "url": "https://nexpulse.bolt.host",
+    "androidScheme": "https"
+  }
+}
